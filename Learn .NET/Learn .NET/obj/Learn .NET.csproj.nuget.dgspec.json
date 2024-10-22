@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn .NET\\Learn .NET\\Learn .NET.csproj": {}
+    "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-.NET\\Learn .NET\\Learn .NET\\Learn .NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn .NET\\Learn .NET\\Learn .NET.csproj": {
+    "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-.NET\\Learn .NET\\Learn .NET\\Learn .NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn .NET\\Learn .NET\\Learn .NET.csproj",
+        "projectUniqueName": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-.NET\\Learn .NET\\Learn .NET\\Learn .NET.csproj",
         "projectName": "Learn .NET",
-        "projectPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn .NET\\Learn .NET\\Learn .NET.csproj",
+        "projectPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-.NET\\Learn .NET\\Learn .NET\\Learn .NET.csproj",
         "packagesPath": "C:\\Users\\imadb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn .NET\\Learn .NET\\obj\\",
+        "outputPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Learn-.NET\\Learn .NET\\Learn .NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
